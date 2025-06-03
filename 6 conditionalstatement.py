@@ -1,5 +1,5 @@
 a=int(input("Enter the value of a: "))
-b=int(input("Enter the value of b: ")) # this 
+b=int(input("Enter the value of b: ")) # this is veriable
 if a>b and a>0:
     print(a,"is greater than", b ,"and it is positive number")
 elif a==b:
