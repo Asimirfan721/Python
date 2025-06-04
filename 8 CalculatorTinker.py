@@ -20,7 +20,7 @@ def divide():
     else:
         result_label.config(text="Error: Cannot divide by 0")
 
-# Create a window
+# 
 window = tk.Tk()
 window.title("Simple Calculator")
 
